@@ -1,0 +1,8 @@
+﻿  Graph.cpp
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.2\graph.cpp(12): error C7511: "_T": Dem Schlüsselwort "typename" muss ein qualifizierter Name folgen.
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.2\graph.cpp(77): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.2\graph.cpp(87): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.2\graph.cpp(154): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  GraphNode.cpp
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.2\graphnode.cpp(14): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp

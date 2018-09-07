@@ -1,0 +1,6 @@
+﻿  MyAlgorithms.cpp
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 3.1\myalgorithms.cpp(148): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 3.1\myalgorithms.cpp(155): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+  Code wird generiert...
+  Aufgabe 3.1.vcxproj -> C:\Users\Oliver\source\repos\ADS-Praktikum\Debug\Aufgabe 3.1.exe

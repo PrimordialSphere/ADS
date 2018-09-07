@@ -1,0 +1,14 @@
+﻿  Graph.cpp
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(150): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(172): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(204): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(208): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(256): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(300): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\oliver\source\repos\ads-praktikum\aufgabe 4.1\graph.cpp(337): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  2 of 761 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Aufgabe 4.1.vcxproj -> C:\Users\Oliver\source\repos\ADS-Praktikum\Release\Aufgabe 4.1.exe
